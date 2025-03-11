@@ -1,0 +1,33 @@
+body {
+    font-family: system-ui;
+    background: black;
+    color: green;
+    text-align: left;
+  }
+  nav li {
+    list-style-type: none;
+  }
+  #hero {
+    background-image: url("https://www.henryford.com/-/media/project/hfhs/henryford/henry-ford-blog/images/interior-banner-images/2019/08/health-tea.jpg?h=785&iar=0&w=1920&hash=6E530AAE28888DFB74386B23B76CE98C");
+    height: 450px;
+  }
+  nav li a {
+    text-decoration: none;
+    color: unset;
+  }
+  
+  #hero {
+    height: 450px;
+  }
+  
+  #about {
+    background-color: #deeaeb;
+    text-align: center;
+    padding: 120px 10vw;
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: 700;
+  }
+  
